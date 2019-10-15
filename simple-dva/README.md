@@ -18,4 +18,10 @@ a simple dva
 - 使用字符串'a.b.c'作为reducer请求结果层级
 
 
+// TODO
+1. 需要将一般的dva的数据流和simple-dva的数据流形成对比；
+2. 可以用simple-dva实现一个todolist；
+3. 请各位方家指正；
+
+
 
