@@ -9,6 +9,9 @@ export default {
     user:{
       value:'',
       list:[]
+    },
+    event:{
+      list:[]
     }
   },
 
