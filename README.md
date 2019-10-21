@@ -15,7 +15,7 @@ a simple dva
 - 用一个公共方法处理全部effects
 - 用一个公共方法处理全部reducers
 - 使用字符串'a.b.c'作为state目标层级
-- 使用字符串'a.b.c'作为reducer请求结果层级
+- 使用字符串'a.b.c'作为effects请求结果层级
 
 
 // TODO
